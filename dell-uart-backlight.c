@@ -355,5 +355,5 @@ module_init(dell_uart_bl_init);
 module_exit(dell_uart_bl_exit);
 MODULE_DEVICE_TABLE(acpi, dell_uart_bl_ids);
 MODULE_DESCRIPTION("Dell AIO Serial Backlight module");
-MODULE_AUTHOR("AceLan Kao <acelan.kao@canonical.com>");
+MODULE_AUTHOR("chang_liu <chang_liu4@dell.com>");
 MODULE_LICENSE("GPL");
